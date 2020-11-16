@@ -5,7 +5,10 @@ statistics. This application finds the peak
 season of an NBA player's career and displays 
 statistics and charts related to that player. 
 It can find a player's peak performance in the
-regular season and/or the postseason.
+regular season and/or the postseason. The peak 
+is found by summing a single season's Win 
+Shares with PER. The maximum of all the
+season's is determined. 
 
 
 ## Demo
