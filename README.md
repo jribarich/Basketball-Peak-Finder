@@ -8,7 +8,8 @@ It can find a player's peak performance in the
 regular season and/or the postseason. The peak 
 is found by summing a single season's Win 
 Shares with PER. The maximum of all the
-season's is determined. 
+season's is determined as the peak of that 
+player's career. 
 
 
 ## Demo
