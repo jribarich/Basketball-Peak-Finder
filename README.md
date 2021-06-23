@@ -17,9 +17,11 @@ player's career.
 ![](demo.gif)
 
 
-## Warning: This application has not been updated
+## Warning: 
+This application has not been updated
 to reflect the change to the Basketball-Reference 
-website structure. 
+website structure resulting in an error. Please refer
+to the demo to see what was once a working application.
    
 ## Installation
 
