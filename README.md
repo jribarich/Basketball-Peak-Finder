@@ -9,13 +9,18 @@ regular season and/or the postseason. The peak
 is found by summing a single season's Win 
 Shares with PER. The maximum of all the
 season's is determined as the peak of that 
-player's career. 
+player's career.
 
 
 ## Demo
 
 ![](demo.gif)
 
+
+## Warning: This application has not been updated
+to reflect the change to the Basketball-Reference 
+website structure. 
+   
 ## Installation
 
 Make sure you have pip or another package manager
